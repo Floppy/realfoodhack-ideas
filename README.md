@@ -1,4 +1,4 @@
 Ideas
 =====
 
-The [wiki](https://github.com/realfoodhack/ideas/wiki) is open
+What could we build? The [wiki](https://github.com/realfoodhack/ideas/wiki) is open
