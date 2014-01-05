@@ -1,4 +1,4 @@
-ideas
+Ideas
 =====
 
-Ideas for the Hackathon
+The [wiki](https://github.com/realfoodhack/ideas/wiki) is open
